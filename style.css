@@ -57,6 +57,14 @@ header ul li a:hover{
 
 }
 
+h1{
+    color: #11c529;
+    font-size: 20px;
+    font-family: monospace;
+}
+p{
+    color: #fff;
+}
 .content{
     position: relative;
     width: 100%;
